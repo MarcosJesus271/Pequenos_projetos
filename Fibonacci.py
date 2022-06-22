@@ -8,7 +8,7 @@ while num > len(fibo):
 	i+=1
 
 lista = fibo
-print("\n"+lista+"\n")
+print(lista)
 
 try:
     if lista.index(verf):
