@@ -8,10 +8,12 @@ while num > len(fibo):
 	i+=1
 
 lista = fibo
+print('\n')
 print(lista)
+print('\n')
 
 try:
     if lista.index(verf):
-        print('Encontrado! O número %d pertence a sequencia Fibonacci'%(verf))
+        print('Encontrado! O número \033[1;32m%d\033[m pertence a sequencia Fibonacci'%(verf))
 except:
-    print("Não encontrado! O número %d não pertence a sequencia Fibonacci ou altere a quantidade de termos para uma nova busca" % (verf))
+    print("Não encontrado! O número \033[1;32m%d\033[m não pertence a sequencia Fibonacci ou altere a quantidade de termos para uma nova busca..." % (verf))
