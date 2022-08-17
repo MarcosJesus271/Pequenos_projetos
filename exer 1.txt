@@ -1,0 +1,11 @@
+Refletindo sobre o Manifesto Ágil é visto que, é uma forma de agilizar processos nas empresas
+onde tarefas designadas são realizadas com uma grande qualidade de forma mais rapida.
+
+Um dos tópicos que ela aborda, o mais chamativo, segundo meu ponto de vista seria a Entrega Continua.
+A Entrega Continua é um dos pilares da agilidade. Afinal, é a partir dela que se garante a satisfação do cliente, e da mesma forma
+para a inovação de ideias do tipo. Ela estabelece um processo pelo qual as alterações feitas por um desenvolvedor em uma aplicação
+possam ser enviadas para um repositório de código por meio da automação.
+
+Vale citar a Cultura DevOps que é a combinação de filosofias culturais, práticas e ferramentas que aumentam a capacidade
+de uma empresa de distribuir aplicativos e serviços em alta velocidade: otimizando e aperfeiçoando produtos em um ritmo
+mais rápido do que o das empresas que usam processos tradicionais de desenvolvimento de software.
